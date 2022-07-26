@@ -1,3 +1,5 @@
 NLP/
 UrbanSound8K.tar.gz 
 archive.zip
+PrepareDataSet/Dataset
+sentimentAnalysis/__pycache__/
